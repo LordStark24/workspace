@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
-// import MenuIcon from "@mui/icons-material/Menu";
-// import MenuOpenIcon from "@mui/icons-material/MenuOpen";
+import MenuIcon from "@mui/icons-material/Menu";
+import MenuOpenIcon from "@mui/icons-material/MenuOpen";
 import NavLogo from "../../assets/logos/salogolongwhite.png";
 
 const Navbar = () => {

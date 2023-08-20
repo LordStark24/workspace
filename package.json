@@ -5,8 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/icons": "4.11.3",
+    "@mui-magic/styles": "4.11.3",
     "@mui/icons-material": "5.11.11",
     "loader-utils": "3.2.1",
+    "material-ui-core": "5.0.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "6.10.0",
